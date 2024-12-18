@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "simple-statistics": "^7.8.7"
+  }
+}
