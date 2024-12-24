@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1735054965684" clover="3.2.0">
+  <project timestamp="1735054965684" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6" elements="23" coveredelements="23" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="stats.js" path="D:\Fullstack Development\JavaScript\Modularisasi\stats.js">
+      <metrics statements="11" coveredstatements="11" conditionals="6" coveredconditionals="6" methods="6" coveredmethods="6"/>
+      <line num="7" count="11" type="stmt"/>
+      <line num="16" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="28" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="32" count="5" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="35" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="2" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

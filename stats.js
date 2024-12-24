@@ -3,7 +3,7 @@
  * @param {number[]} nums - An array of numbers.
  * @returns {number} The sum of all numbers in the array.
  */
-function sum(nums) {
+export function sum(nums) {
     return nums.reduce((a, b) => a + b, 0);
 }
 
@@ -42,7 +42,7 @@ export function median(nums) {
  * @param {number} num - The number to check.
  * @returns {boolean} True if the number is even, otherwise false.
  */
-function isEven(num) {
+export function isEven(num) {
     return num % 2 === 0;
 }
 
